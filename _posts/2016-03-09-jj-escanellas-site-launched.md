@@ -27,9 +27,3 @@ trizas sobre la pantalla de vidrio.  El velo para el segundo ojo, es
 para ignorar. Y aceptar.
 
 FIN
-
-Juanjosé Escanellas Fontela.
-
-Marzo, 2016.
-
-CC-BY-4.0
