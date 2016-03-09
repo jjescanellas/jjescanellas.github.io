@@ -25,3 +25,7 @@ argumento.
 Zunugre está a la deriva.  Los ideales en tres dimensiones, se hacen
 trizas sobre la pantalla de vidrio.  El velo para el segundo ojo, es
 para ignorar. Y aceptar.
+
+Juanjosé Escanellas Fontela
+Marzo, 2016
+CC-BY-4.0
