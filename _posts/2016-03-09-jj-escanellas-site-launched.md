@@ -2,6 +2,7 @@
 layout: post
 title: "El presagio del segundo ojo."
 date: 2016-03-09
+license: CC-BY-4.0
 ---
 
 En Zunugre los choferes manejan con un ojo tapado, para no ver doble por
